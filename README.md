@@ -1,0 +1,2 @@
+# Ping-Pong-Game
+Pong can be a 3D Game or a 2D Game but since this is based on a classic pong game that’s why it’s based on two-dimensional. So basically this Ping Pong is a two-dimensional sports game that simulates table tennis. It is a simple game that is based on a ball and a bat in which two player participate. Player has to hit a ball with bat or else opponent will gain a point. The player to score 5 points will be declared as the winner of the game.
